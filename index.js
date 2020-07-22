@@ -1,3 +1,5 @@
+// Actual code is from line 8724
+
 var data = `{
     "rates": { 
       "2019-02-05": {
